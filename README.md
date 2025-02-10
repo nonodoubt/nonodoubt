@@ -3,7 +3,6 @@
 My name is Evgenii and
 - I’m currently studying AI at the ITMO university.
 - :memo: My CV [in English](https://github.com/sad-bkt/resume/blob/master/Resume.pdf) and [Russian (HeadHunter)](https://spb.hh.ru/resume/54754122ff0be3d98a0039ed1f753945497059)
-- :clown_face: I won the ITMO MegaOlympiad in [artificial intelligence](https://github.com/sad-bkt/university_courses/blob/master/certificates/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D0%B8%D0%B8_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C.pdf) (top 5 out of 200+ participants) and [game-theoretic modeling](https://github.com/sad-bkt/university_courses/blob/master/certificates/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D1%82%D0%B5%D0%BE%D1%80-%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D1%80.pdf) (top 3 out of 90+ participants) at 2023
 - ⚡ Fun facts:
   - I can teach you to cook Uzbek pilaf
   - Previously, I was the head of the service department at the largest Russian integrator of telecommunications solutions, LLC "Arman" 5. My responsibilities included organizing technical support, managing business processes and analytics, as well as implementing service maintenance solutions for industrial enterprises. Currently, I am pursuing a master’s degree in artificial intelligence at ITMO University.
