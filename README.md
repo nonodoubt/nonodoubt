@@ -2,7 +2,7 @@
 
 My name is Evgenii and
 - I’m currently studying AI at the ITMO university.
-- :memo: My CV [in English](https://github.com/sad-bkt/resume/blob/master/Resume.pdf) and [Russian (HeadHunter)](https://spb.hh.ru/resume/54754122ff0be3d98a0039ed1f753945497059)
+- :memo: My CV [in English](https://github.com/nonodoubt/nonodoubt/blob/main/resume.pdf) and [Russian (HeadHunter)](https://spb.hh.ru/resume/54754122ff0be3d98a0039ed1f753945497059)
 - ⚡ Fun facts:
   - I can teach you to cook Uzbek pilaf
   - Previously, I was the head of the service department at the largest Russian integrator of telecommunications solutions, LLC "Arman" 5. My responsibilities included organizing technical support, managing business processes and analytics, as well as implementing service maintenance solutions for industrial enterprises. Currently, I am pursuing a master’s degree in artificial intelligence at ITMO University.
